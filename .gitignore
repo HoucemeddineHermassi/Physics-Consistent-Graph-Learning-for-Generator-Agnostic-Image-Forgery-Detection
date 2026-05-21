@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# LaTeX / PDF
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.pdf
+els-cas-templates/**/*.aux
+els-cas-templates/**/*.log
+els-cas-templates/**/*.pdf
+
+# Datasets and Archives (Large files)
+*.zip
+*.rar
+*.tar.gz
+CASIA2/
+CocoGlide/
+Columbia/
+in_wild/
+ImSpliceDataset/
+
+# Results and Temp
+experimental_results.json
+*.png
+!figs/*.png
+generate_docs.py
