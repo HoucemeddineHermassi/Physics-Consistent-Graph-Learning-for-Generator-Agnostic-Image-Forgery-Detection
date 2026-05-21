@@ -1,0 +1,2 @@
+# Physics-Consistent-Graph-Learning-for-Generator-Agnostic-Image-Forgery-Detection
+PCGL (Physics-Consistent Graph Learning) detects highly realistic image forgeries by verifying the physical consistency of scenes. Instead of relying on generative artifacts, it uses a Multi-modal Physics Proxy and a Graph Attention Network to identify causal breaks in lighting, reflectance, and shadows, ensuring robust cross-domain detection.
