@@ -1,6 +1,6 @@
 # PCGL: Physics-Consistent Graph Learning for Blind Image Forgery Detection
 
-[![Paper](https://img.shields.io/badge/Journal-Information%20Sciences-blue)](https://www.sciencedirect.com/journal/information-sciences)
+
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-ee4c2c)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
